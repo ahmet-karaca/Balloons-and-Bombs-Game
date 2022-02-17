@@ -1,0 +1,324 @@
+/mnt/disk1/ogrenci/ogr/b21946309$ ./Main
+size: 5
+line: 
+
+
+
+
+
+
+line: 3 1 1 2 1
+
+3
+1
+1
+2
+1
+line: 3 2 3 3 5
+
+3
+2
+3
+3
+5
+line: 4 1 2 2 3
+
+4
+1
+2
+2
+3
+line: 4 2 5 0 4
+
+4
+2
+5
+0
+4
+line: 3 2 5 1 5
+
+3
+2
+5
+1
+5
+grid2printi
+00000
+31121
+32335
+41223
+42504
+line: 2 2
+
+2
+2
+line: 4 0
+
+4
+0
+line: 0 3
+
+0
+3
+line: 4 2
+
+4
+2
+line: 3 1
+
+3
+1
+line: 2 1
+2
+1
+input2CommandsVector printi
+22
+40
+03
+42
+31
+21
+bombValue:3
+row:2
+column2
+bomba sayisi:3
+size:5
+j:0
+2-0:3
+row sabitte eslesme 2-0:
+bomba sayisi:0
+bomba sayisi sonra:1
+0-2:0
+--------
+j:1
+2-1:2
+1-2:1
+--------
+j:2
+2-2:3
+burasi zaten bomba soldan saga
+2-2:3
+burasi zaten bomba yukaridan asagiya
+--------
+j:3
+2-3:3
+row sabitte eslesme 2-3:
+bomba sayisi:1
+bomba sayisi sonra:2
+3-2:2
+--------
+j:4
+2-4:5
+4-2:5
+--------
+row:2
+column:2
+k:1
+1-1:1
+3-1:1
+3-3:2
+1-3:2
+k:2
+0-0:0
+4-0:4
+4-4:4
+0-4:0
+k:3
+k:4
+for disi deneme
+bomba sayisi:2
+bomba sayisi sonra:3
+Bu turdaki puan:9
+bombValue:4
+row:4
+column0
+bomba sayisi:4
+size:5
+j:0
+4-0:4
+burasi zaten bomba soldan saga
+0-0:0
+--------
+j:1
+4-1:2
+1-0:3
+--------
+j:2
+4-2:5
+2-0:0
+--------
+j:3
+4-3:0
+3-0:4
+column sabitte eslesme 3-0:
+bomba sayisi:0
+bomba sayisi sonra:1
+--------
+j:4
+4-4:4
+row sabitte eslesme 4-4:
+bomba sayisi:1
+bomba sayisi sonra:2
+4-0:4
+burasi zaten bomba yukaridan asagiya
+--------
+row:4
+column:0
+k:1
+3-1:1
+k:2
+2-2:0
+k:3
+1-3:2
+k:4
+0-4:0
+for disi deneme
+bomba sayisi:2
+bomba sayisi sonra:3
+Bu turdaki puan:12
+bombValue:5
+row:4
+column2
+bomba sayisi:5
+size:5
+j:0
+4-0:0
+0-2:0
+--------
+j:1
+4-1:2
+1-2:1
+--------
+j:2
+4-2:5
+burasi zaten bomba soldan saga
+2-2:0
+--------
+j:3
+4-3:0
+3-2:2
+--------
+j:4
+4-4:0
+4-2:5
+burasi zaten bomba yukaridan asagiya
+--------
+row:4
+column:2
+k:1
+3-1:1
+3-3:2
+k:2
+2-0:0
+2-4:5
+sag ustte eslesme 2-4:
+bomba sayisi:0
+bomba sayisi sonra:1
+k:3
+k:4
+for disi deneme
+bomba sayisi:1
+bomba sayisi sonra:2
+Bu turdaki puan:10
+bombValue:1
+row:3
+column1
+bomba sayisi:1
+size:5
+j:0
+3-0:0
+0-1:0
+--------
+j:1
+3-1:1
+burasi zaten bomba soldan saga
+1-1:1
+column sabitte eslesme 1-1:
+bomba sayisi:0
+bomba sayisi sonra:1
+--------
+j:2
+3-2:2
+2-1:2
+--------
+j:3
+3-3:2
+3-1:1
+burasi zaten bomba yukaridan asagiya
+--------
+j:4
+3-4:3
+4-1:2
+--------
+row:3
+column:1
+k:1
+2-0:0
+4-0:0
+4-2:0
+2-2:0
+k:2
+1-3:2
+k:3
+0-4:0
+k:4
+for disi deneme
+bomba sayisi:1
+bomba sayisi sonra:2
+Bu turdaki puan:2
+bombValue:2
+row:2
+column1
+bomba sayisi:2
+size:5
+j:0
+2-0:0
+0-1:0
+--------
+j:1
+2-1:2
+burasi zaten bomba soldan saga
+1-1:0
+--------
+j:2
+2-2:0
+2-1:2
+burasi zaten bomba yukaridan asagiya
+--------
+j:3
+2-3:0
+3-1:0
+--------
+j:4
+2-4:0
+4-1:2
+column sabitte eslesme 4-1:
+bomba sayisi:0
+bomba sayisi sonra:1
+--------
+row:2
+column:1
+k:1
+1-0:3
+3-0:0
+3-2:2
+sag altta eslesme 3-2:
+bomba sayisi:1
+bomba sayisi sonra:2
+1-2:1
+k:2
+4-3:0
+0-3:0
+k:3
+k:4
+for disi deneme
+bomba sayisi:2
+bomba sayisi sonra:3
+Bu turdaki puan:6
+grid2printi
+00000
+30121
+00000
+00023
+00000
+Final Point: 39
